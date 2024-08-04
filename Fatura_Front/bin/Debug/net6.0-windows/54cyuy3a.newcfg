@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+  <add key="LicenseID" value="abc1" />
+  <add key="Email" value="alisahinasya00@gmail.com" />
+  <add key="Password" value="ali123" />
+  <add key="Token" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJDdXN0b21lcklEIjoxLCJMaWNlbnNlSUQiOiJhYmMxIiwiaWF0IjoxNzIyNDQ4ODgzLCJleHAiOjE3MjI0NDg5NDN9.iKFbEvzWf1TWaNvdSeCal5mjWsHlPqFc-arlqGz_8NE" />
+ </appSettings>
+</configuration>
